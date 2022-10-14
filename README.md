@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Jacob
-- 👀 I’m interested in Java  C/C++
-- 🌱 I’m currently learning Web
 - 💞️ I’m looking to collaborate on Java Dev
 - 📫 How to reach me jakeamberson314@gmail.com
 
