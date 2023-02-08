@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Jacob
-- 💞️ I’m looking to collaborate on Java Dev
+
 - 📫 How to reach me jakeamberson314@gmail.com
 
 <!---
